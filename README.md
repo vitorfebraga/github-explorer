@@ -3,6 +3,8 @@
   <img src="https://github.com/vitorfebraga/github-explorer/blob/master/vitorreactjs.gif"/>
 
 </h1>
+
+#
 # 📝Description
 <h3>Project that connects with the github api</h3>
 In this project we use github api to view repositories and profiles. We learned to use it and explore its functionalities in general. 
